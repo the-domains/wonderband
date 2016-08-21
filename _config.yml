@@ -1,0 +1,14 @@
+layout_spectrum: 0.32252337760291994
+typography_spectrum: 0.9601337895728648
+color:
+  brandStrength: 0.21070208330638707
+  lightness: 0.06542250607162714
+  saturation: 0.4801201643422246
+  rhythmicContrast: 0.5418980880640447
+  brandColors:
+    - '#FF6600'
+    - '#C13B00'
+    - '#5E6D70'
+    - '#424E4F'
+    - '#1B1D1E'
+name: Wonderband
